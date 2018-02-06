@@ -1,5 +1,5 @@
 # FCGPHOG; Fused-Color Gabor Pyramidal Histogram of Oriented Gradients.
-FCGPHOG is a variant of HOG descriptor which uses multiple Gabor filters by rotating with a constant angle in the kernel. It uses multiple color spaces and principal component analysis (PCA) for the dimensionality reduction.
+FCGPHOG is a color variant of HOG descriptor which uses multiple Gabor filters by rotating with a constant angle in the kernel. It uses multiple color spaces and principal component analysis (PCA) for the dimensionality reduction.
 
 ## Features:
 1. Can generate HOG
